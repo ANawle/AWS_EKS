@@ -85,5 +85,4 @@ resource "aws_eks_cluster" "eks" {
   }
 }
 
-  # Ensure Spacelift has access to the repository
-}
+# Ensure Spacelift has access to the repository
